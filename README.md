@@ -16,6 +16,28 @@
 
 </div>
 
+<br />
+
+
+### 🚀 In Progress
+
+| 대회 | 프로젝트 | 상태 |
+|:---:|:---:|:---:|
+| 모두의 창업 | [Recatch-APP](https://github.com/SeungbeenYoo/Recatch-APP) · 앱 데모버전 | 🟡 1라운드 진행중 |
+
+<br />
+
+
+### 💡 Projects
+
+| 프로젝트 | 소개 | 활동 |
+|:---:|---|:---:|
+| [🏠 안부](https://github.com/SeungbeenYoo/AnBu_Hackathon) | 도장 찍기 전, 계약서의 안부를 묻다 | 2026 빌드 투게더 AI 해커톤 |
+| [💳 ReCatch Tap](https://github.com/SeungbeenYoo/ReCatchTap-CES2027) | 계산대에서 폰을 대면 가장 큰 할인을 한 번에 | CES 2027 가상 부스 발표 |
+| [📱 Recatch-APP](https://github.com/SeungbeenYoo/Recatch-APP) | 모두의 창업 앱 데모버전 | 모두의 창업 1라운드 |
+
+<br />
+
 
 ### 🛠 Tech Stacks
 <div align="center">
