@@ -35,7 +35,7 @@
 </p>
 
 ### 💡 Projects
-- [**🏠 안부**](https://github.com/SeungbeenYoo/AnBu_Hackathon) — 도장 찍기 전, 계약서의 안부를 묻다
-- [**💳 ReCatch Tap**](https://github.com/SeungbeenYoo/ReCatchTap-CES2027) — 계산대에서 폰을 대면 가장 큰 할인을 한 번에
-- [**📱 Recatch-APP**](https://github.com/SeungbeenYoo/Recatch-APP) — 모두의 창업 앱 데모버전
-- [**🚜 Safe42**](https://github.com/SeungbeenYoo/Safe42_42IdeaContest) — 다치기 전에 멈춘다 · 농기계 끼임 선제 차단 온디바이스 AI
+- [**🏠 안부**](https://github.com/SeungbeenYoo/AnBu_Hackathon) <img src="https://img.shields.io/badge/🥇_대상-C9A96E?style=flat-square"/> — 도장 찍기 전, 계약서의 안부를 묻다
+- [**💳 ReCatch Tap**](https://github.com/SeungbeenYoo/ReCatchTap-CES2027) <img src="https://img.shields.io/badge/🏅_Outstanding_Graduate-C9A96E?style=flat-square"/> — 계산대에서 폰을 대면 가장 큰 할인을 한 번에
+- [**📱 Recatch-APP**](https://github.com/SeungbeenYoo/Recatch-APP) <img src="https://img.shields.io/badge/✅_1라운드_합격-555555?style=flat-square"/> — 모두의 창업 앱 데모버전
+- [**🚜 Safe42**](https://github.com/SeungbeenYoo/Safe42_42IdeaContest) <img src="https://img.shields.io/badge/🛠_준비중-555555?style=flat-square"/> — 다치기 전에 멈춘다 · 농기계 끼임 선제 차단 온디바이스 AI
