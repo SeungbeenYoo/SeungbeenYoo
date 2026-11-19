@@ -27,11 +27,11 @@
 ### 🏆 Achievements
 
 <p align="center">
-  <a href="https://github.com/SeungbeenYoo/AnBu_Hackathon"><img src="https://img.shields.io/badge/GRAND_PRIZE-빌드_투게더_AI_해커톤-111111?style=for-the-badge&labelColor=C9A96E"/></a>
-  <a href="https://github.com/SeungbeenYoo/ReCatchTap-CES2027"><img src="https://img.shields.io/badge/OUTSTANDING_GRADUATE-CES_2027-111111?style=for-the-badge&labelColor=C9A96E"/></a>
+  <a href="https://github.com/SeungbeenYoo/AnBu_Hackathon"><img src="https://img.shields.io/badge/🥇_대상_·_대구가톨릭대학교_총장상-빌드_투게더_AI_해커톤-111111?style=for-the-badge&labelColor=C9A96E"/></a>
+  <a href="https://github.com/SeungbeenYoo/ReCatchTap-CES2027"><img src="https://img.shields.io/badge/🏅_Outstanding_Graduate_·_우수수료자-CES_2027-111111?style=for-the-badge&labelColor=C9A96E"/></a>
   <br/>
-  <a href="https://github.com/SeungbeenYoo/Recatch-APP"><img src="https://img.shields.io/badge/ROUND_1_PASSED-모두의_창업-111111?style=for-the-badge&labelColor=555555"/></a>
-  <a href="https://github.com/SeungbeenYoo/Safe42_42IdeaContest"><img src="https://img.shields.io/badge/IN_PROGRESS-42경산_아이디어_경진대회-111111?style=for-the-badge&labelColor=555555"/></a>
+  <a href="https://github.com/SeungbeenYoo/Recatch-APP"><img src="https://img.shields.io/badge/✅_1라운드_합격-모두의_창업-111111?style=for-the-badge&labelColor=555555"/></a>
+  <a href="https://github.com/SeungbeenYoo/Safe42_42IdeaContest"><img src="https://img.shields.io/badge/🛠_준비중_·_12%2F9_발표-42경산_아이디어_경진대회-111111?style=for-the-badge&labelColor=555555"/></a>
 </p>
 
 ### 💡 Projects
