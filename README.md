@@ -24,6 +24,7 @@
 | 대회 | 수상 | 프로젝트 |
 |:---:|:---:|:---:|
 | 2026 빌드 투게더 AI 해커톤 | 🥇 대상 (대구가톨릭대학교 총장상) | [🏠 안부](https://github.com/SeungbeenYoo/AnBu_Hackathon) |
+| CES 2027 | 🏅 Outstanding Graduate (우수수료자 선정) | [💳 ReCatch Tap](https://github.com/SeungbeenYoo/ReCatchTap-CES2027) |
 
 <br />
 
@@ -33,6 +34,7 @@
 | 대회 | 프로젝트 | 상태 |
 |:---:|:---:|:---:|
 | 모두의 창업 | [📱 Recatch-APP](https://github.com/SeungbeenYoo/Recatch-APP) | ✅ 1라운드 합격 |
+| 2026 42경산 아이디어 경진대회 | [🚜 Safe42](https://github.com/SeungbeenYoo/Safe42_42IdeaContest) | 🛠 준비중 (12/9 발표) |
 
 <br />
 
@@ -42,8 +44,9 @@
 | 프로젝트 | 소개 | 활동 |
 |:---:|---|:---:|
 | [🏠 안부](https://github.com/SeungbeenYoo/AnBu_Hackathon) | 도장 찍기 전, 계약서의 안부를 묻다 | 🥇 2026 빌드 투게더 AI 해커톤 대상 |
+| [💳 ReCatch Tap](https://github.com/SeungbeenYoo/ReCatchTap-CES2027) | 계산대에서 폰을 대면 가장 큰 할인을 한 번에 | 🏅 CES 2027 Outstanding Graduate |
 | [📱 Recatch-APP](https://github.com/SeungbeenYoo/Recatch-APP) | 모두의 창업 앱 데모버전 | ✅ 모두의 창업 1라운드 합격 |
-| [💳 ReCatch Tap](https://github.com/SeungbeenYoo/ReCatchTap-CES2027) | 계산대에서 폰을 대면 가장 큰 할인을 한 번에 | CES 2027 가상 부스 발표 |
+| [🚜 Safe42](https://github.com/SeungbeenYoo/Safe42_42IdeaContest) | 다치기 전에 멈춘다 · 농기계 끼임 선제 차단 온디바이스 AI | 2026 42경산 아이디어 경진대회 (온디바이스 & 엣지 AI) |
 
 <br />
 
